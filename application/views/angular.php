@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html ng-app="api">
 <head>
-	<title>Test Angular</title>
+	<title>Test </title>
 </head>
 <script type="text/javascript" src="<?php echo base_url();?>assets/angular.min.js"></script>
 <body>
@@ -10,7 +10,7 @@
 	<thead>
 		<tr>	
 			<td class="border">ID</td>
-			<td class="border">NAMA</td>
+			<td class="border">NAME</td>
 			<td class="border">PASSWORD</td>
 			<td class="border">FLAG</td>
 		</tr>
